@@ -1,9 +1,7 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://your-image-url.com" alt="Header Image">
+  <img src="https://github.com/nikhamidi/nikhamidi/blob/main/github-header-image.png" alt="Header Image">
 </p>
-
-<h1 align="center">👋 Hi, I'm Nikhamidi</h1>
 
 <p align="center">
   <em>🚀 Passionate Developer | 🌈 Explorer of Technologies | 🎨 Enthusiastic Creator</em>
